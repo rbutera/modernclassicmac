@@ -1,0 +1,11 @@
+
+MaxDpsOptions = {
+	["profileKeys"] = {
+		["Rairai - Zandalar Tribe"] = "Rairai - Zandalar Tribe",
+		["Babymama - Zandalar Tribe"] = "Babymama - Zandalar Tribe",
+	},
+	["global"] = {
+		["customRotations"] = {
+		},
+	},
+}

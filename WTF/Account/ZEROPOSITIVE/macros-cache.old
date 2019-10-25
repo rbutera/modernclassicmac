@@ -1,0 +1,29 @@
+VER 3 0000000000000006 "Assist" "132243"
+/assist
+/cast !Auto Shot
+END
+VER 3 0000000000000007 "Pet Assist" "132150"
+/tar Yaboi
+/assist
+/petattack
+/cast !Auto Shot
+/startattack
+END
+VER 3 0000000000000002 "PLUG" "132092"
+/g Live @ twitch.tv/ya_boi_Rai_Rai
+END
+VER 3 0000000000000005 "spit" "INV_MISC_QUESTIONMARK"
+/spit
+END
+VER 3 0000000000000004 "TSMMacro" "INV_Misc_Flower_01"
+/click TSMCancelAuctionBtn
+/click TSMDestroyBtn
+/click TSMShoppingBuyoutBtn
+/click TSMSniperBtn
+/click TSMAuctioningBtn
+/click TSMCraftingBtn
+END
+VER 3 0000000000000001 "ZygorAction1" "135474"
+#showtooltip Yeh'kinya's Bramble
+/use item:10699
+END

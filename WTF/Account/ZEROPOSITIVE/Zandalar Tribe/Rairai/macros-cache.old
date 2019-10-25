@@ -1,0 +1,106 @@
+VER 3 000000000100000A "ArS" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Shot
+/cast !Auto Shot
+/cast Arcane Shot
+/cleartarget [dead]
+/targetenemy [noharm]
+END
+VER 3 0000000001000001 "AS" "INV_MISC_QUESTIONMARK"
+#showtooltip Auto Shot
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast [modifier:shift] Hunter's Mark
+/cast !Auto Shot
+/startattack
+/cast [modifier:ctrl] Disengage
+END
+VER 3 0000000001000008 "Aspect" "INV_MISC_QUESTIONMARK"
+/castsequence !Aspect of the Hawk, !Aspect of the Cheetah
+END
+VER 3 0000000001000006 "Attack" "INV_MISC_QUESTIONMARK"
+/petattack
+/cast Charge
+/cast Dash
+/cast Dive
+END
+VER 3 0000000001000004 "Clip" "INV_MISC_QUESTIONMARK"
+#showtooltip Wing Clip
+/cast Wing Clip
+/cast Wing Clip(Rank 2)
+/cast Wing Clip(Rank 1)
+END
+VER 3 0000000001000012 "EOTB" "INV_MISC_QUESTIONMARK"
+#showtooltip Eyes of the Beast
+/cast Eyes of the Beast
+/cancelaura Eyes of the Beast
+/petstay
+END
+VER 3 0000000001000011 "FT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Immolation Trap
+/cast [nomod] Freezing Trap
+END
+VER 3 0000000001000005 "Growl" "INV_MISC_QUESTIONMARK"
+/cast Growl
+END
+VER 3 0000000001000010 "Intimidation" "INV_MISC_QUESTIONMARK"
+#showtooltip Intimidation
+/petattack
+/cast Charge
+/cast Dash
+/cast Dive
+/cast Intimidation
+END
+VER 3 0000000001000002 "Melee" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Raptor Strike
+/cast Counterattack
+/cast Mongoose Bite
+END
+VER 3 000000000100000E "Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, nopet] Call Pet
+/cast [modifier:shift] Revive Pet
+/cast [nomod, nochanneling] Mend Pet
+/cast [modifier:ctrl] Feign Death
+END
+VER 3 000000000100000D "Multi Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Multi-Shot
+/cast !Auto Shot
+/cast Multi-Shot
+/cleartarget [dead]
+/targetenemy [noharm]
+END
+VER 3 0000000001000009 "Passive" "132311"
+/petfollow
+/petpassive
+END
+VER 3 0000000001000003 "Pet Attack" "132152"
+#showtooltip
+/cleartarget [dead][help]
+/targetenemy [noharm]
+/petattack [harm]
+/petdefensive
+/cast Dash
+/cast Dive
+/cast [modifier:shift] Hunter's Mark
+END
+VER 3 000000000100000B "Pull" "INV_MISC_QUESTIONMARK"
+#showtooltip Hunter's Mark
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast !Auto Shot
+/petattack
+/cast Hunter's Mark
+/cast Dive
+/cast Dash
+END
+VER 3 000000000100000F "RF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Bestial Wrath
+/cast Rapid Fire
+END
+VER 3 000000000100000C "Stay" "136072"
+/petstay
+END

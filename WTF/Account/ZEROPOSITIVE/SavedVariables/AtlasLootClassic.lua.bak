@@ -1,0 +1,72 @@
+
+AtlasLootClassicDB = {
+	["global"] = {
+		["__addonrevision"] = 1030002,
+	},
+	["profileKeys"] = {
+		["Jelq - Dreadmist"] = "Jelq - Dreadmist",
+		["Baee - Shazzrah"] = "Baee - Shazzrah",
+		["Niceprice - Shazzrah"] = "Niceprice - Shazzrah",
+		["Bankk - Dreadmist"] = "Bankk - Dreadmist",
+		["Babymama - Zandalar Tribe"] = "Babymama - Zandalar Tribe",
+		["Adhd - Dreadmist"] = "Adhd - Dreadmist",
+		["Rairai - Zandalar Tribe"] = "Rairai - Zandalar Tribe",
+	},
+	["profiles"] = {
+		["Jelq - Dreadmist"] = {
+		},
+		["Baee - Shazzrah"] = {
+		},
+		["Niceprice - Shazzrah"] = {
+		},
+		["Bankk - Dreadmist"] = {
+		},
+		["Babymama - Zandalar Tribe"] = {
+			["GUI"] = {
+				["point"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					0, -- [4]
+					0, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"Uldaman", -- [2]
+					11, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+		["Adhd - Dreadmist"] = {
+			["GUI"] = {
+				["selected"] = {
+					nil, -- [1]
+					"RazorfenKraul", -- [2]
+					8, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+		["Rairai - Zandalar Tribe"] = {
+			["GUI"] = {
+				["point"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					0, -- [4]
+					0, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"ScarletMonasteryLibrary", -- [2]
+					nil, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,27 @@
+
+HHTD_SavedVariables = {
+	["char"] = {
+		["Babymama - Zandalar Tribe"] = {
+			["settingsMigrated"] = false,
+		},
+		["Rairai - Zandalar Tribe"] = {
+			["settingsMigrated"] = false,
+		},
+	},
+	["global"] = {
+		["settingsMigrated"] = false,
+		["oldNameEnableState"] = 0,
+	},
+	["profileKeys"] = {
+		["Babymama - Zandalar Tribe"] = "Babymama - Zandalar Tribe",
+		["Rairai - Zandalar Tribe"] = "Rairai - Zandalar Tribe",
+	},
+	["namespaces"] = {
+		["Announcer"] = {
+		},
+		["CM"] = {
+		},
+		["NPH"] = {
+		},
+	},
+}

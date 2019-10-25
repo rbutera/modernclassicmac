@@ -1,0 +1,46 @@
+
+HandyNotes_NPCsClassicDB = {
+	["char"] = {
+		["Rairai - Zandalar Tribe"] = {
+			["learned"] = {
+				["Southshore, Hillsbrad"] = true,
+				["Sentinel Hill, Westfall"] = true,
+				["Theramore, Dustwallow Marsh"] = true,
+				["Talrendis Point, Azshara"] = true,
+				["Auberdine, Darkshore"] = true,
+				["Darkshire, Duskwood"] = true,
+				["Astranaar, Ashenvale"] = true,
+				["Nijel's Point, Desolace"] = true,
+				["Stormwind, Elwynn"] = true,
+				["Booty Bay, Stranglethorn"] = true,
+				["Stonetalon Peak, Stonetalon Mountains"] = true,
+				["Gadgetzan, Tanaris"] = true,
+				["Menethil Harbor, Wetlands"] = true,
+				["Lakeshire, Redridge"] = true,
+				["Feathermoon, Feralas"] = true,
+				["Nethergarde Keep, Blasted Lands"] = true,
+				["Chillwind Camp, Western Plaguelands"] = true,
+				["Ironforge, Dun Morogh"] = true,
+				["Rut'theran Village, Teldrassil"] = true,
+				["Thelsamar, Loch Modan"] = true,
+				["Ratchet, The Barrens"] = true,
+				["Thalanaar, Feralas"] = true,
+				["Refuge Pointe, Arathi"] = true,
+			},
+		},
+	},
+	["namespaces"] = {
+		["AltRecipes"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Babymama - Zandalar Tribe"] = "Default",
+		["Rairai - Zandalar Tribe"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["showProfessions"] = "MINE",
+			["showAmmoVendors"] = true,
+		},
+	},
+}

@@ -1,0 +1,3 @@
+
+sConfig = nil
+sData = nil

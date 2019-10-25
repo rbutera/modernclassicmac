@@ -1,0 +1,953 @@
+
+XToLevelDB = {
+	["char"] = {
+		["Babymama - Zandalar Tribe"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 11,
+					["mobKills"] = 65,
+				},
+				["killAverage"] = 24.6,
+				["killList"] = {
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [1]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [2]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [3]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [4]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 21,
+					}, -- [5]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [6]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 21,
+					}, -- [7]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 27,
+					}, -- [8]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 21,
+					}, -- [9]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 21,
+					}, -- [10]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [11]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [12]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [13]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [14]
+					{
+						["mob"] = "Garrick Padfoot",
+						["xp"] = 68,
+					}, -- [15]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [16]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [17]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [18]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [19]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [20]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [21]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [22]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [23]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [24]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [25]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [26]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [27]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [28]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [29]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [30]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [31]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [32]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 52,
+					}, -- [33]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 65,
+					}, -- [34]
+					{
+						["mob"] = "Defias Thug",
+						["xp"] = 63,
+					}, -- [35]
+					{
+						["mob"] = "Timber Wolf",
+						["xp"] = 48,
+					}, -- [36]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [37]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [38]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [39]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [40]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [41]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [42]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [43]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [44]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [45]
+					{
+						["mob"] = "Kobold Worker",
+						["xp"] = 60,
+					}, -- [46]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 36,
+					}, -- [47]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [48]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [49]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 55,
+					}, -- [50]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [51]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [52]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 55,
+					}, -- [53]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [54]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [55]
+					{
+						["mob"] = "Kobold Vermin",
+						["xp"] = 44,
+					}, -- [56]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 44,
+					}, -- [57]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 44,
+					}, -- [58]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 44,
+					}, -- [59]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 44,
+					}, -- [60]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 44,
+					}, -- [61]
+					{
+						["mob"] = "Timber Wolf",
+						["xp"] = 55,
+					}, -- [62]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 50,
+					}, -- [63]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 50,
+					}, -- [64]
+					{
+						["mob"] = "Young Wolf",
+						["xp"] = 50,
+					}, -- [65]
+				},
+				["timer"] = {
+					["start"] = 510480.09,
+					["total"] = 0,
+					["lastUpdated"] = 510618.091,
+					["xpPerSec"] = 0.669427010513739,
+				},
+				["questAverage"] = 199,
+				["questList"] = {
+					360, -- [1]
+					180, -- [2]
+					340, -- [3]
+					35, -- [4]
+					360, -- [5]
+					250, -- [6]
+					40, -- [7]
+					170, -- [8]
+					170, -- [9]
+					85, -- [10]
+					40, -- [11]
+				},
+			},
+		},
+		["Rairai - Zandalar Tribe"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 1282,
+					["quests"] = 479,
+					["mobKills"] = 6791,
+				},
+				["killAverage"] = 186,
+				["dungeonList"] = {
+					{
+						["killCount"] = 287,
+						["name"] = "Zul'Farrak",
+						["inProgress"] = false,
+						["killTotal"] = 37581,
+						["level"] = 45,
+						["rested"] = 137,
+						["totalXP"] = 37581,
+					}, -- [1]
+					{
+						["totalXP"] = 28422,
+						["name"] = "Uldaman",
+						["rested"] = 0,
+						["killTotal"] = 28422,
+						["level"] = 44,
+						["killCount"] = 201,
+						["inProgress"] = false,
+					}, -- [2]
+					{
+						["name"] = "Uldaman",
+						["totalXP"] = 28747,
+						["rested"] = 0,
+						["killTotal"] = 28747,
+						["level"] = 43,
+						["inProgress"] = false,
+						["killCount"] = 227,
+					}, -- [3]
+					{
+						["name"] = "Uldaman",
+						["totalXP"] = 31687,
+						["rested"] = 1956,
+						["killTotal"] = 31687,
+						["level"] = 42,
+						["inProgress"] = false,
+						["killCount"] = 272,
+					}, -- [4]
+					{
+						["name"] = "Uldaman",
+						["totalXP"] = 298,
+						["rested"] = 298,
+						["killTotal"] = 298,
+						["level"] = 42,
+						["inProgress"] = false,
+						["killCount"] = 3,
+					}, -- [5]
+					{
+						["name"] = "Uldaman",
+						["totalXP"] = 102,
+						["rested"] = 102,
+						["killTotal"] = 102,
+						["level"] = 42,
+						["inProgress"] = false,
+						["killCount"] = 1,
+					}, -- [6]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 2617,
+						["killCount"] = 12,
+						["killTotal"] = 2617,
+						["level"] = 37,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [7]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 1085,
+						["killCount"] = 8,
+						["killTotal"] = 1085,
+						["level"] = 37,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [8]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 174,
+						["killCount"] = 1,
+						["killTotal"] = 174,
+						["level"] = 37,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [9]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 11414,
+						["killCount"] = 73,
+						["killTotal"] = 11414,
+						["level"] = 37,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [10]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 9214,
+						["killCount"] = 83,
+						["killTotal"] = 9214,
+						["level"] = 37,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [11]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 7853,
+						["killCount"] = 72,
+						["killTotal"] = 7853,
+						["level"] = 36,
+						["rested"] = 0,
+						["name"] = "Scarlet Monastery",
+					}, -- [12]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 1456,
+						["killCount"] = 42,
+						["killTotal"] = 1456,
+						["level"] = 36,
+						["rested"] = 176,
+						["name"] = "Scarlet Monastery",
+					}, -- [13]
+				},
+				["questAverage"] = 1820,
+				["questList"] = {
+					380, -- [1]
+					380, -- [2]
+					3900, -- [3]
+					2900, -- [4]
+					380, -- [5]
+					2700, -- [6]
+					2700, -- [7]
+					360, -- [8]
+					1800, -- [9]
+					2700, -- [10]
+					360, -- [11]
+					3750, -- [12]
+					3900, -- [13]
+					3900, -- [14]
+					4850, -- [15]
+					3900, -- [16]
+					3900, -- [17]
+					3050, -- [18]
+					5050, -- [19]
+					3600, -- [20]
+					2800, -- [21]
+					390, -- [22]
+					3900, -- [23]
+					3600, -- [24]
+					3900, -- [25]
+					3150, -- [26]
+					81, -- [27]
+					825, -- [28]
+					1650, -- [29]
+					1650, -- [30]
+					3300, -- [31]
+					1150, -- [32]
+					1400, -- [33]
+					390, -- [34]
+					3150, -- [35]
+					3000, -- [36]
+					1700, -- [37]
+					2250, -- [38]
+					1700, -- [39]
+					3150, -- [40]
+					2700, -- [41]
+					2550, -- [42]
+					2300, -- [43]
+					3750, -- [44]
+					3600, -- [45]
+					3600, -- [46]
+					3450, -- [47]
+					3300, -- [48]
+					3750, -- [49]
+					5250, -- [50]
+					4200, -- [51]
+					4700, -- [52]
+					775, -- [53]
+					2800, -- [54]
+					3600, -- [55]
+					2550, -- [56]
+					3450, -- [57]
+					2900, -- [58]
+					3300, -- [59]
+					1650, -- [60]
+					1650, -- [61]
+					2850, -- [62]
+					2850, -- [63]
+					2250, -- [64]
+					975, -- [65]
+					330, -- [66]
+					3450, -- [67]
+					3000, -- [68]
+					3600, -- [69]
+					3150, -- [70]
+					2350, -- [71]
+					4850, -- [72]
+					2550, -- [73]
+					3450, -- [74]
+					3000, -- [75]
+					2850, -- [76]
+					2100, -- [77]
+					2850, -- [78]
+					2850, -- [79]
+					3000, -- [80]
+					1450, -- [81]
+					1100, -- [82]
+					3550, -- [83]
+					154, -- [84]
+					2150, -- [85]
+					2200, -- [86]
+					1350, -- [87]
+					700, -- [88]
+					2450, -- [89]
+					825, -- [90]
+					825, -- [91]
+					2450, -- [92]
+					1400, -- [93]
+					2850, -- [94]
+					775, -- [95]
+					775, -- [96]
+					2450, -- [97]
+					2450, -- [98]
+					1400, -- [99]
+					2850, -- [100]
+				},
+				["killList"] = {
+					{
+						["mob"] = "Grimtotem Raider",
+						["xp"] = 200,
+					}, -- [1]
+					{
+						["mob"] = "Grimtotem Shaman",
+						["xp"] = 200,
+					}, -- [2]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 160,
+					}, -- [3]
+					{
+						["mob"] = "Grimtotem Raider",
+						["xp"] = 180,
+					}, -- [4]
+					{
+						["mob"] = "Grimtotem Raider",
+						["xp"] = 200,
+					}, -- [5]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 180,
+					}, -- [6]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 160,
+					}, -- [7]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 180,
+					}, -- [8]
+					{
+						["mob"] = "Grimtotem Shaman",
+						["xp"] = 220,
+					}, -- [9]
+					{
+						["mob"] = "Grimtotem Raider",
+						["xp"] = 180,
+					}, -- [10]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 160,
+					}, -- [11]
+					{
+						["mob"] = "Grimtotem Shaman",
+						["xp"] = 200,
+					}, -- [12]
+					{
+						["mob"] = "Grimtotem Naturalist",
+						["xp"] = 180,
+					}, -- [13]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 200,
+					}, -- [14]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 200,
+					}, -- [15]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 180,
+					}, -- [16]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [17]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 200,
+					}, -- [18]
+					{
+						["mob"] = "Gordunni Mage-Lord",
+						["xp"] = 57,
+					}, -- [19]
+					{
+						["mob"] = "Gordunni Warlord",
+						["xp"] = 62,
+					}, -- [20]
+					{
+						["mob"] = "Gordunni Warlord",
+						["xp"] = 57,
+					}, -- [21]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 49,
+					}, -- [22]
+					{
+						["mob"] = "Gordunni Battlemaster",
+						["xp"] = 53,
+					}, -- [23]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 53,
+					}, -- [24]
+					{
+						["mob"] = "Gordunni Battlemaster",
+						["xp"] = 57,
+					}, -- [25]
+					{
+						["mob"] = "Gordunni Warlord",
+						["xp"] = 57,
+					}, -- [26]
+					{
+						["mob"] = "Gordunni Mage-Lord",
+						["xp"] = 53,
+					}, -- [27]
+					{
+						["mob"] = "Gordunni Warlord",
+						["xp"] = 62,
+					}, -- [28]
+					{
+						["mob"] = "Gordunni Mage-Lord",
+						["xp"] = 57,
+					}, -- [29]
+					{
+						["mob"] = "Gordunni Battlemaster",
+						["xp"] = 57,
+					}, -- [30]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 49,
+					}, -- [31]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 21,
+					}, -- [32]
+					{
+						["mob"] = "Gordunni Battlemaster",
+						["xp"] = 260,
+					}, -- [33]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 220,
+					}, -- [34]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 240,
+					}, -- [35]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 220,
+					}, -- [36]
+					{
+						["mob"] = "Gordunni Mage-Lord",
+						["xp"] = 260,
+					}, -- [37]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 240,
+					}, -- [38]
+					{
+						["mob"] = "Gordunni Battlemaster",
+						["xp"] = 260,
+					}, -- [39]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [40]
+					{
+						["mob"] = "Gordunni Shaman",
+						["xp"] = 220,
+					}, -- [41]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 200,
+					}, -- [42]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [43]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 200,
+					}, -- [44]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [45]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 200,
+					}, -- [46]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [47]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 200,
+					}, -- [48]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 200,
+					}, -- [49]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 220,
+					}, -- [50]
+					{
+						["mob"] = "Vale Screecher",
+						["xp"] = 200,
+					}, -- [51]
+					{
+						["mob"] = "Ironfur Bear",
+						["xp"] = 160,
+					}, -- [52]
+					{
+						["mob"] = "Groddoc Ape",
+						["xp"] = 180,
+					}, -- [53]
+					{
+						["mob"] = "Ironfur Bear",
+						["xp"] = 180,
+					}, -- [54]
+					{
+						["mob"] = "Groddoc Ape",
+						["xp"] = 180,
+					}, -- [55]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 220,
+					}, -- [56]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 220,
+					}, -- [57]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 200,
+					}, -- [58]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 220,
+					}, -- [59]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 180,
+					}, -- [60]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 180,
+					}, -- [61]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [62]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [63]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [64]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [65]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [66]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [67]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [68]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [69]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [70]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 216,
+					}, -- [71]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [72]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [73]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 236,
+					}, -- [74]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [75]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 216,
+					}, -- [76]
+					{
+						["mob"] = "Gordunni Warlock",
+						["xp"] = 216,
+					}, -- [77]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [78]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [79]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 216,
+					}, -- [80]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [81]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 216,
+					}, -- [82]
+					{
+						["mob"] = "Gordunni Mauler",
+						["xp"] = 236,
+					}, -- [83]
+					{
+						["mob"] = "Gordunni Brute",
+						["xp"] = 196,
+					}, -- [84]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 216,
+					}, -- [85]
+					{
+						["mob"] = "Enraged Feral Scar",
+						["xp"] = 236,
+					}, -- [86]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [87]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [88]
+					{
+						["mob"] = "Enraged Feral Scar",
+						["xp"] = 255,
+					}, -- [89]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [90]
+					{
+						["mob"] = "Enraged Feral Scar",
+						["xp"] = 236,
+					}, -- [91]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [92]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 216,
+					}, -- [93]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 216,
+					}, -- [94]
+					{
+						["mob"] = "Hulking Feral Scar",
+						["xp"] = 275,
+					}, -- [95]
+					{
+						["mob"] = "Hulking Feral Scar",
+						["xp"] = 255,
+					}, -- [96]
+					{
+						["mob"] = "Enraged Feral Scar",
+						["xp"] = 236,
+					}, -- [97]
+					{
+						["mob"] = "Enraged Feral Scar",
+						["xp"] = 255,
+					}, -- [98]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [99]
+					{
+						["mob"] = "Feral Scar Yeti",
+						["xp"] = 236,
+					}, -- [100]
+				},
+				["timer"] = {
+					["start"] = 510629.462,
+					["total"] = 40794,
+					["lastUpdated"] = 516261.483,
+					["xpPerSec"] = 7.2432258331423,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Babymama - Zandalar Tribe"] = "Babymama - Zandalar Tribe",
+		["Rairai - Zandalar Tribe"] = "Rairai - Zandalar Tribe",
+	},
+	["profiles"] = {
+		["Babymama - Zandalar Tribe"] = {
+		},
+		["Rairai - Zandalar Tribe"] = {
+			["averageDisplay"] = {
+				["verbose"] = false,
+				["mode"] = 2,
+				["scale"] = 0.75,
+				["backdrop"] = false,
+				["header"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,14 @@
+
+AtlasQuest_Options = {
+	["Version"] = "4.11.55",
+	["Babymama"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Rairai"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+}

@@ -1,0 +1,11 @@
+
+HandyNotes_DungeonLocationsClassicDB = {
+	["profileKeys"] = {
+		["Babymama - Zandalar Tribe"] = "Default",
+		["Rairai - Zandalar Tribe"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

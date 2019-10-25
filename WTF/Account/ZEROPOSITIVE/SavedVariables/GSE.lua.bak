@@ -1,0 +1,220 @@
+
+GSEOptions = {
+	["HideLoginMessage"] = false,
+	["use1"] = false,
+	["KEYWORD"] = "|cff88bbdd",
+	["Updated801"] = true,
+	["use2"] = false,
+	["STANDARDFUNCS"] = "|cff55ddcc",
+	["showGSEUsers"] = false,
+	["UnfoundSpellIDs"] = {
+	},
+	["saveAllMacrosLocal"] = true,
+	["COMMENT"] = "|cff55cc55",
+	["use14"] = false,
+	["NUMBER"] = "|cffffaa00",
+	["use11"] = false,
+	["EQUALS"] = "|cffccddee",
+	["CreateGlobalButtons"] = false,
+	["sendDebugOutputToChatWindow"] = false,
+	["Update2305"] = true,
+	["use12"] = false,
+	["debug"] = false,
+	["CONCAT"] = "|cffcc7777",
+	["use6"] = false,
+	["CommandColour"] = "|cFF00FF00",
+	["UNKNOWN"] = "|cffff6666",
+	["DisabledSequences"] = {
+	},
+	["AddInPacks"] = {
+		["Samples"] = {
+			["Version"] = "2.4.23",
+			["Name"] = "Samples",
+			["SequenceNames"] = {
+				"Assorted Sample Macros", -- [1]
+			},
+		},
+	},
+	["AuthorColour"] = "|cFF00D1FF",
+	["autoCreateMacroStubsGlobal"] = false,
+	["useTranslator"] = false,
+	["clearUIErrors"] = false,
+	["sendDebugOutputToDebugOutput"] = false,
+	["hideSoundErrors"] = false,
+	["Update2410"] = true,
+	["PromptSample"] = true,
+	["STRING"] = "|cff888888",
+	["requireTarget"] = false,
+	["resetOOC"] = true,
+	["Update2411"] = true,
+	["TitleColour"] = "|cFFFF0000",
+	["hideUIErrors"] = false,
+	["initialised"] = true,
+	["INDENT"] = "|cffccaa88",
+	["DebugModules"] = {
+		["Translator"] = false,
+		["GUI"] = false,
+		["Storage"] = false,
+		["Editor"] = false,
+		["API"] = false,
+		["Versions"] = false,
+		["Viewer"] = false,
+		["Transmission"] = false,
+	},
+	["Update2415"] = true,
+	["MacroResetModifiers"] = {
+		["Alt"] = false,
+		["LeftControl"] = false,
+		["LeftButton"] = false,
+		["LeftAlt"] = false,
+		["RightButton"] = false,
+		["RightAlt"] = false,
+		["Button4"] = false,
+		["Button5"] = false,
+		["MiddleButton"] = false,
+		["RightControl"] = false,
+		["Control"] = false,
+		["Shift"] = false,
+		["LeftShift"] = false,
+		["AnyMod"] = false,
+		["RightShift"] = false,
+	},
+	["filterList"] = {
+		["Class"] = true,
+		["All"] = false,
+		["Global"] = true,
+		["Spec"] = true,
+	},
+	["EmphasisColour"] = "|cFFFFFF00",
+	["UseVerboseExportFormat"] = false,
+	["WOWSHORTCUTS"] = "|cffddaaff",
+	["RealtimeParse"] = false,
+	["deleteOrphansOnLogout"] = false,
+	["ErroneousSpellID"] = {
+	},
+	["UnfoundSpells"] = {
+		["Cower"] = true,
+	},
+	["overflowPersonalMacros"] = false,
+	["DebugPrintModConditionsOnKeyPress"] = false,
+	["showMiniMap"] = {
+		["hide"] = true,
+	},
+	["ActiveSequenceVersions"] = {
+	},
+	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
+	["use13"] = false,
+	["NormalColour"] = "|cFFFFFFFF",
+	["autoCreateMacroStubsClass"] = true,
+	["UseWLMExportFormat"] = true,
+	["setDefaultIconQuestionMark"] = true,
+	["showGSEoocqueue"] = true,
+	["DefaultImportAction"] = "MERGE",
+}
+GSELibrary = {
+	[0] = {
+	},
+	[8] = {
+		["SAM_STARTERMAGE"] = {
+			["Talents"] = "CLASSIC",
+			["Help"] = "A simple Mage macro - starts wanding then starts casting.",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast !5019", -- [1]
+					"/cast 205", -- [2]
+					"/cast 145", -- [3]
+					"/cast 2136", -- [4]
+					"/cast 5143", -- [5]
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["PostMacro"] = {
+					},
+					["PreMacro"] = {
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm, dead]", -- [1]
+						"/startattack", -- [2]
+					},
+				}, -- [1]
+			},
+			["Author"] = "Draikon@Remulos",
+			["SpecID"] = 8,
+			["ManualIntervention"] = false,
+		},
+	},
+	[3] = {
+		["SAM_HUNTERLOWLEVEL"] = {
+			["Talents"] = "CLASSIC",
+			["MacroVersions"] = {
+				{
+					"/cast 13550", -- [1]
+					"/cast 5116", -- [2]
+					"/cast 14282", -- [3]
+					["LoopLimit"] = "10",
+					["PostMacro"] = {
+						"/cast !14318", -- [1]
+					},
+					["Head"] = true,
+					["Neck"] = true,
+					["Belt"] = true,
+					["Ring1"] = true,
+					["Combat"] = true,
+					["KeyRelease"] = {
+					},
+					["Ring2"] = true,
+					["KeyPress"] = {
+						"/cast [nopet,nodead] Call Pet [@pet,dead] 982", -- [1]
+						"/petautocaston 14917", -- [2]
+						"/petattack", -- [3]
+						"/cast 75", -- [4]
+					},
+					["Trinket2"] = true,
+					["StepFunction"] = "Sequential",
+					["PreMacro"] = {
+					},
+					["Trinket1"] = true,
+				}, -- [1]
+				{
+					"/cast 13550", -- [1]
+					"/cast 5116", -- [2]
+					"/cast 14282", -- [3]
+					["Trinket1"] = true,
+					["Head"] = true,
+					["Neck"] = true,
+					["Belt"] = true,
+					["Ring1"] = true,
+					["PostMacro"] = {
+					},
+					["Ring2"] = true,
+					["KeyRelease"] = {
+					},
+					["KeyPress"] = {
+						"/cast [nopet,nodead] Call Pet [@pet,dead] 982", -- [1]
+						"/petautocastoff [group] 14917", -- [2]
+						"/petautocaston [nogroup] 14917", -- [3]
+						"/petautocastoff [nogroup] Cower", -- [4]
+						"/petautocaston [group] Cower", -- [5]
+						"/cast 75", -- [6]
+						"/petattack", -- [7]
+					},
+					["StepFunction"] = "Sequential",
+					["Trinket2"] = true,
+					["PreMacro"] = {
+						"/cast 1130", -- [1]
+					},
+					["Combat"] = true,
+				}, -- [2]
+			},
+			["ManualIntervention"] = false,
+			["Dungeon"] = 2,
+			["Party"] = 2,
+			["Help"] = "Started with EWing's less than 20 macro and made some changes.  Get a swing timer mod and use just after autoshot has fired.  IE No MS or spamming.  This will flow through to mid 20's",
+			["Raid"] = 2,
+			["SpecID"] = 3,
+			["Default"] = 1,
+			["Author"] = "TimothyLuke",
+		},
+	},
+}

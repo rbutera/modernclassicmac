@@ -1,0 +1,60 @@
+
+DejaClassicStatsDBPC = {
+	["gdbdefaults"] = {
+		["DejaClassicStatsItemQualityBorders"] = {
+			["ItemQualityBordersChecked"] = true,
+		},
+		["DejaClassicStatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = true,
+		},
+		["DejaClassicStatsShowItemLevelChecked"] = {
+			["ShowItemLevelSetChecked"] = true,
+		},
+		["DejaClassicStatsShowEnchantChecked"] = {
+			["ShowEnchantSetChecked"] = true,
+		},
+		["DejaClassicStatsShowDefaultStats"] = {
+			["ShowDefaultStatsChecked"] = false,
+		},
+		["dejacharacterstatsExpandButtonAltPlacementChecked"] = {
+			["ExpandButtonAltPlacementSetChecked"] = false,
+		},
+		["dejacharacterstatsExpandButtonChecked"] = {
+			["ExpandButtonSetChecked"] = true,
+		},
+		["DejaClassicStatsShowItemRepairChecked"] = {
+			["ShowItemRepairSetChecked"] = true,
+		},
+		["DejaClassicStatsShowAverageRepairChecked"] = {
+			["ShowAverageRepairSetChecked"] = true,
+		},
+		["dejacharacterstatsScrollbarChecked"] = {
+			["ScrollbarSetChecked"] = false,
+		},
+		["DejaClassicStatsSimpleItemColorChecked"] = {
+			["SimpleItemColorChecked"] = false,
+			["DarkerItemColorChecked"] = false,
+		},
+		["DejaClassicStatsShowModelRotation"] = {
+			["ShowModelRotationChecked"] = false,
+		},
+		["DejaClassicStatsMoveResistances"] = {
+			["MoveResistancesChecked"] = false,
+		},
+		["DejaClassicStatsAlternateInfoPlacement"] = {
+			["AlternateInfoPlacementChecked"] = false,
+		},
+		["dejacharacterstatsExpandChecked"] = {
+			["ExpandSetChecked"] = true,
+		},
+		["DejaClassicStatsShowHideScrollArtBackground"] = {
+			["ShowHideScrollArtBackgroundChecked"] = true,
+		},
+		["DejaClassicStatsDesaturateScrollArtBackground"] = {
+			["DesaturateScrollArtBackgroundChecked"] = true,
+		},
+		["DejaClassicStatsShowDuraChecked"] = {
+			["ShowDuraSetChecked"] = true,
+		},
+	},
+}

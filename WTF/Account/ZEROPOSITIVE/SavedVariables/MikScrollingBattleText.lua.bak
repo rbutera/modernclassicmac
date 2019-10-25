@@ -1,0 +1,57 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["critFontName"] = "Roboto Condensed Bold",
+			["cooldownThreshold"] = 8,
+			["creationVersion"] = "5.7.149",
+			["critFontSize"] = 15,
+			["events"] = {
+				["NOTIFICATION_CURRENCY"] = {
+					["disabled"] = true,
+				},
+				["NOTIFICATION_LOOT"] = {
+					["disabled"] = true,
+				},
+				["NOTIFICATION_MONEY"] = {
+					["disabled"] = true,
+				},
+				["NOTIFICATION_COOLDOWN"] = {
+					["disabled"] = true,
+				},
+			},
+			["scrollAreas"] = {
+				["Incoming"] = {
+					["scrollWidth"] = 20,
+					["offsetY"] = -283,
+					["offsetX"] = -163,
+					["scrollHeight"] = 125,
+				},
+				["Static"] = {
+					["offsetX"] = -23,
+					["offsetY"] = -177,
+				},
+				["Notification"] = {
+					["offsetX"] = -184,
+					["offsetY"] = 109,
+				},
+				["Outgoing"] = {
+					["scrollHeight"] = 125,
+					["offsetX"] = 134,
+					["offsetY"] = -282,
+					["scrollWidth"] = 20,
+					["direction"] = "Up",
+				},
+			},
+			["normalFontName"] = "Roboto Condensed Bold",
+			["enableBlizzardDamage"] = true,
+			["normalFontSize"] = 12,
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}

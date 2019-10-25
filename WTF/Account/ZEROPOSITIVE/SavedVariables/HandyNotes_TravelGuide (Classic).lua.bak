@@ -1,0 +1,13 @@
+
+HandyNotes_TravelGuideClassicDB = {
+	["profileKeys"] = {
+		["Babymama - Zandalar Tribe"] = "Babymama - Zandalar Tribe",
+		["Rairai - Zandalar Tribe"] = "Rairai - Zandalar Tribe",
+	},
+	["profiles"] = {
+		["Babymama - Zandalar Tribe"] = {
+		},
+		["Rairai - Zandalar Tribe"] = {
+		},
+	},
+}

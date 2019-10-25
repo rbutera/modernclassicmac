@@ -1,0 +1,44 @@
+
+InFlightDB = {
+	["version"] = "classic",
+	["global"] = {
+		["Alliance"] = {
+			["Theramore"] = {
+				["Stonetalon Peak"] = 539,
+			},
+			["Booty Bay"] = {
+				["Ironforge"] = 464,
+			},
+			["Thelsamar"] = {
+				["Stormwind"] = 278,
+			},
+			["Astranaar"] = {
+				["Talrendis Point"] = 147,
+			},
+			["Feathermoon"] = {
+				["Ratchet"] = 429,
+			},
+		},
+	},
+	["upload"] = 1572441502,
+	["dbinit"] = 1133,
+	["profileKeys"] = {
+		["Adhd - Dreadmist"] = "Default",
+		["Rairai - Zandalar Tribe"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["outline"] = true,
+			["border"] = "None",
+			["fontsize"] = 7,
+			["rp"] = "CENTER",
+			["texture"] = "Details Flat",
+			["p"] = "CENTER",
+			["width"] = 180,
+			["y"] = -187,
+			["font"] = "Friz Quadrata TT",
+			["height"] = 7,
+			["x"] = 8,
+		},
+	},
+}

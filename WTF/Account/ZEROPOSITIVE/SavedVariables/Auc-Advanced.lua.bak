@@ -1,0 +1,81 @@
+
+AucAdvancedConfig = {
+	["users.Dreadmist.Adhd"] = "Default",
+	["profile.Default"] = {
+		["configator.left"] = 559.625122070313,
+		["core"] = {
+			["matcher"] = {
+				["matcherlist"] = {
+					"BeanCount", -- [1]
+					"Undercut", -- [2]
+				},
+			},
+			["tooltip"] = {
+				["depositduration"] = 8,
+			},
+		},
+		["util"] = {
+			["appraiser"] = {
+				["enable"] = true,
+			},
+			["askprice"] = {
+				["whispers"] = false,
+			},
+			["scanfinish"] = {
+				["emote"] = "DANCE",
+			},
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["SavedMailButtons"] = {
+				},
+			},
+			["itemsuggest"] = {
+				["relisttimes"] = 1.3,
+			},
+		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
+			},
+		},
+		["scancommit.targetFPS"] = 5,
+		["configator.top"] = 764.789123535156,
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Version"] = 1,
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Global"] = {
+			["configator.left"] = 509.625122070313,
+			["configator.top"] = 789.789123535156,
+		},
+		["SavedSearches"] = {
+		},
+	},
+}
+AucAdvancedServers = {
+	["Version"] = 1,
+	["KnownServerKeys"] = {
+		["Shazzrah"] = 1568503675,
+		["Dreadmist"] = 1568503568,
+		["ZandalarTribe"] = 1571993321,
+	},
+	["KnownRealms"] = {
+		["Shazzrah"] = "Shazzrah",
+		["Dreadmist"] = "Dreadmist",
+		["ZandalarTribe"] = "ZandalarTribe",
+	},
+	["Timestamp"] = 1567773146,
+	["ExpandedNames"] = {
+		["ZandalarTribe"] = "Zandalar Tribe",
+	},
+}

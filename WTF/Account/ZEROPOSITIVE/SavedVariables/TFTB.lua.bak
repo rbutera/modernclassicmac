@@ -1,0 +1,2 @@
+
+TFTB_NEWEMOTE = nil

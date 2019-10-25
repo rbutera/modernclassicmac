@@ -1,0 +1,15 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+AddOnSkins: disabled
+Aurora: enabled
+MikScrollingBattleText: disabled
+LibSharedMedia-3.0: enabled
+MSBTOptions: disabled
+totalRP3: disabled
+WeakAurasCompanion: enabled
+ZygorGuidesViewerClassic: enabled
+Cartographer: enabled
+Cartographer3: enabled
+TomTom: enabled
+WorldQuestTracker: enabled

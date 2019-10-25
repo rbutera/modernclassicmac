@@ -1,0 +1,68 @@
+
+LoseControlDB = {
+	["noGetEnemiesBuffsInformation"] = false,
+	["noCooldownCount"] = false,
+	["frames"] = {
+		["player"] = {
+			["anchor"] = "None",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+		["target"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 56,
+		},
+		["party4"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+		["party3"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+		["party1"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+		["pet"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+		["party2"] = {
+			["anchor"] = "Blizzard",
+			["enabled"] = true,
+			["alpha"] = 1,
+			["size"] = 36,
+		},
+	},
+	["disablePartyInBG"] = false,
+	["version"] = 1,
+	["priority"] = {
+		["Other"] = 0,
+		["CC"] = 60,
+		["Snare"] = 0,
+		["Interrupt"] = 40,
+		["ImmuneSpell"] = 70,
+		["PvE"] = 90,
+		["Immune"] = 80,
+		["ImmunePhysical"] = 65,
+		["Silence"] = 50,
+		["Root"] = 0,
+		["Disarm"] = 30,
+	},
+	["disablePlayerInterrupts"] = true,
+	["noGetExtraAuraDurationInformation"] = false,
+	["disablePartyInRaid"] = true,
+	["noBlizzardCooldownCount"] = true,
+}
