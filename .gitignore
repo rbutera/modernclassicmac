@@ -1,0 +1,13 @@
+.curseclient
+.flavor.info
+*.exe
+Cache/
+*.DLL
+*.dll
+Logs/
+Screenshots/
+Utils/ 
+WoW.mfil
+*.app
+Errors/
+*.zip
